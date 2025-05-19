@@ -2,7 +2,7 @@
 
 ###  DATE: 24/04/2025
 ###  NAME: SETHUPATHI K
-###  ROLL NO :212223040229
+###  ROLL NO :212223040189
 ###  DEPARTMENT: BE CSE
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
